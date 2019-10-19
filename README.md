@@ -5,4 +5,4 @@ This repository reflect my solutions to coding challenges and exercises, as well
 Everyone is welcomed to contribute to this project. You can contribute either by submitting bugs or suggesting improvements by opening an issue on GitHub. please see the CONTRIBUTING guidelines for more information.
 
 ### LICENSE
-This project is licensed under the Apache License.
+This project is licensed under the Apache License Version 2.0, January 2004,                  http://www.apache.org/licenses/
